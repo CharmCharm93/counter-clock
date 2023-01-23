@@ -1,0 +1,24 @@
+.container {
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  font-size: 2rem;
+}
+
+#value {
+  font-size: 6rem;
+  font-weight: bold;
+}
+
+.btn {
+  background-color: transparent;
+  border-radius: 5px;
+
+  padding: 10px 20px;
+  margin: 20px 5px;
+}
+
+.btn:hover {
+  background-color: lightgrey;
+  color: white;
+  cursor: pointer;
+}
